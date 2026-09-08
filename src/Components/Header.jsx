@@ -75,7 +75,7 @@ function Header() {
 
         {/* Header */}
         <div className="mb-8">
-         git
+         
 
           <h1 className="text-4xl md:text-5xl font-bold text-slate-900">
             To-Do List
